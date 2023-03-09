@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codewithmunazir
 - 👀 I’m interested in php mysql jquery codeigniter
 - 🌱 I’m currently learning php projects
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m intrested in Data Science with Python ...
 - 📫 How to reach me ... codewithmunazir@gmail.com || https://www.linkedin.com/in/munaizr-khan-878184173
 
 <!---
